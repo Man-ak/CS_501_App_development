@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mobility Lens</string>
+    <string name="app_title">Mobility Lens</string>
+    <string name="app_introduction">Explore how mobile conditions shape everyday application decisions.</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="design_prompt">Application or feature name</string>
+    <string name="design_hint">For example, campus shuttle tracker</string>
+    <string name="consider_button">Consider this dimension</string>
+    <string name="blank_input_message">Enter an application or feature name before continuing.</string>
+    <string name="success_message">For %1$s, plan for %2$s.</string>
+    <string name="dimension_counter">Dimension %1$d of %2$d</string>
+</resources>
